@@ -1,3 +1,40 @@
+## O que foi utilizado no desenvolvimento:
+
+```
+Inicialmente a api (responsável pelas chamadas no banco de dados), 
+foi contruida utilizandos das tecnologias: Laravel e PHP.
+
+O ambiente de desenvolvimento web utilizado foi o Laragon, 
+que é um aplicativo do Laravel que ficou responsável por rodar o Apache e o banco Heidi (MySQL).
+
+Para contruir o banco de dados foi utilizado o Migrations que o Laravel disponibiliza 
+para as criações das tabelas. E por fim, para injetar os dados nas tabelas do banco de dados e 
+testar as rotas do Back-End foi utilizado o API Client Postman.
+
+
+```
+
+## Como rodar o Back-End:
+
+```
+1 - Após ter feito a instalação das tecnologias posteriormente citadas a cima, será necessário iniciar o Laragon, 
+    cujo qual irá carregar o Apache juntamente do MySQL.
+
+2- Uma vez que Laragon esteja iniciado, 
+   o mesmo irá manter em execução um tray icon na barra de ferramentas no canto direiro inferior da tela ->
+   clique com o botão direito no ícone na barra de ferramentas -> 
+   selecione o campo que tenha a seguinte informação "Criar rapidamente um website" -> 
+   selecione o campo "Laravel".
+
+3- Feito isso, basta inserir um nome para o seu projeto.
+
+4- Depois de escolher um nome para o projeto o terminal de comando irá dar inicio
+   a criação das pastas do projeto e o banco de dados no servidor.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
