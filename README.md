@@ -32,10 +32,16 @@ testar as rotas do Back-End foi utilizado o API Client Postman.
    a criação das pastas do projeto e o banco de dados no servidor.
 
 
+```
 
+## Modelo de Entidade e Relacionamento (MER):
 
+```
+```
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/51517454/131067661-5af167d1-25fb-46fe-b68a-5611a22ade48.png" width="400"></p>
 
+```
 ```
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
