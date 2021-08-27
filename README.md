@@ -34,7 +34,7 @@ testar as rotas do Back-End foi utilizado o API Client Postman.
 
 ```
 
-## Modelo de Entidade e Relacionamento (MER):
+## Diagrama de Entidade e Relacionamento (DER):
 
 ```
 ```
